@@ -1,4 +1,4 @@
-# Portifolio
+# Portfolio
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 ![Languages Count](https://img.shields.io/github/languages/count/theSystemFall/portfolio)
@@ -13,10 +13,15 @@ Make sure to take look at my [Github](https://github.com/theSystemFall) page to 
 *The contents on this page.*
 - [Projects](##projects)
 - [License](##license)
+- [Translations](##translations)
 
 ## Projects:
-*A list of the projects on this portifolio*
+*A list of the projects on this portfolio*
 - There is no project uploaded yet
+
+## Translations:
+*Versions of this page with another language*
+- [Portuguese](https://github.com/theSystemFall/portfolio/blob/main/README_pt_br.md)
 
 ## License:
 
