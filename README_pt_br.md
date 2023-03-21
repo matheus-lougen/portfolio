@@ -11,9 +11,9 @@ Dê uma olhada na minha página do [Github](https://github.com/theSystemFall) pa
 
 ## Sumário:
 *O conteúdo desta página.*
-- [Projetos](##projetos)
-- [Licença](##licença)
-- [Traduções](##traduções)
+- [Projetos](#projetos)
+- [Licença](#licença)
+- [Traduções](#traduções)
 
 ## Projetos:
 *Uma lista de projetos neste portifólio*
