@@ -1,11 +1,13 @@
 # Portifolio
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
+![Languages Count](https://img.shields.io/github/languages/count/theSystemFall/portfolio)
+![Top language](https://img.shields.io/github/languages/top/theSystemFall/portfolio)
 
 ### What is this ?
 *This is a collection of small projects that I made to show my programming skills and also as a form of educational content.*
 
-Make sure to look on my [Github](https://github.com/theSystemFall) page to see bigger in-depth projects that i'm working on.
+Make sure to take look at my [Github](https://github.com/theSystemFall) page to see bigger in-depth projects that i'm working on.
 
 ## Table of contents:
 *The contents on this page.*
@@ -14,7 +16,7 @@ Make sure to look on my [Github](https://github.com/theSystemFall) page to see b
 
 ## Projects:
 *A list of the projects on this portifolio*
-- There is no project uploaded
+- There is no project uploaded yet
 
 ## License:
 
