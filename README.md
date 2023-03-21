@@ -11,9 +11,9 @@ Make sure to take look at my [Github](https://github.com/theSystemFall) page to 
 
 ## Table of contents:
 *The contents on this page.*
-- [Projects](##projects)
-- [License](##license)
-- [Translations](##translations)
+- [Projects](#projects)
+- [License](#license)
+- [Translations](#translations)
 
 ## Projects:
 *A list of the projects on this portfolio*
