@@ -7,13 +7,13 @@
 ### Oque é isso ?
 *Uma coleção de pequenos projetos que fiz para demonstrar minhas habilidades com programação e também como uma forma de conteúdo educacional.*
 
-Dê uma olhada na minha página do [Github](https://github.com/matheuslougen) para ver projetos maiores em que estou trabalhando.
+Dê uma olhada na minha página do [Github](https://github.com/matheus-lougen) para ver projetos maiores em que estou trabalhando.
 
 ## Sumário:
 *O conteúdo desta página.*
 - [Projetos](#projetos)
-- [Licença](#licença)
 - [Traduções](#traduções)
+- [Licença](#licença)
 
 ## Projetos:
 *Uma lista de projetos neste portifólio*
