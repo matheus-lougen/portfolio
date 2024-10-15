@@ -7,13 +7,13 @@
 ### What is this ?
 *This is a collection of small projects that I made to show my programming skills and also as a form of educational content.*
 
-Make sure to take look at my [Github](https://github.com/matheuslougen) page to see bigger in-depth projects that i'm working on.
+Make sure to take look at my [Github](https://github.com/matheus-lougen) page to see bigger in-depth projects that i'm working on.
 
 ## Table of contents:
 *The contents on this page.*
 - [Projects](#projects)
-- [License](#license)
 - [Translations](#translations)
+- [License](#license)
 
 ## Projects:
 *A list of the projects on this portfolio*
