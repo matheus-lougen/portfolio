@@ -17,7 +17,9 @@ Dê uma olhada na minha página do [GitHub](https://github.com/matheus-lougen) p
 
 ## Projetos:
 *Uma lista de projetos neste portifólio*
-- Nenhum projeto por enquanto!
+
+### Linguagem C:
+- [Calculadora](https://github.com/matheus-lougen/portfolio/tree/main/C/calculadora)
 
 ## Traduções:
 *Versões desta página em outras línguas*
