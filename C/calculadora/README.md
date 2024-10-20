@@ -14,7 +14,7 @@ Dê uma olhada na minha página do [GitHub](https://github.com/matheus-lougen) p
 
 ## Traduções:
 *Versões desta página em outras línguas*
-- [Inglês](https://github.com/matheuslougen/portfolio/blob/main/README.md)
+- [Inglês](https://github.com/matheus-lougen/portfolio/blob/main/C/calculadora/README-en.md)
 
 ## Licença:
 
